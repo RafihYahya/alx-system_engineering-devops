@@ -1,2 +1,2 @@
 #!/bin/bash
-mpv Star_Wars
+echo "telnet towel.blinkenlights.nl" 
