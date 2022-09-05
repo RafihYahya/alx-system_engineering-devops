@@ -1,0 +1,2 @@
+#!/bin/bsh
+grep -A 3 root /etc/passwd
